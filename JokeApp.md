@@ -18,5 +18,5 @@
 ## 了解样例运行原理
 * **api获取**：使用[聚合数据](https://www.juhe.cn/)的免费api(获得api需用身份症实名认证)
 * **调用网址**：'http://japi.juhe.cn/joke/content/text.from'
-* **调用方式**：使用appkey:'c39621ea5b825547001f9858a643f182',pagesize:10
+* **调用方式**：使用APPCODE 'c39621ea5b825547001f9858a643f182',pagesize:10
 * **结果**：免费获取最新的文本笑话和趣图（图片和gif图）
