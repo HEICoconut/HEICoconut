@@ -11,7 +11,7 @@
 * 解压ZIP文件
 * 打开微信开发者工具（[下载地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)）
 * 导入项目
-* ![导入项目]()
+* ![导入项目](http://a2.qpic.cn/psb?/V13Yzozk2MgzSr/8KjB7kmW3.HRvic2MElQZU.URsh*JViDhT9wrV9jV5w!/m/dDEBAAAAAAAAnull&bo=5gSTAwAAAAACB1E!&rf=photolist&t=5)
 * 试运行
 
 
