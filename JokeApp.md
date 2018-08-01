@@ -20,3 +20,4 @@
 * **调用网址**：'http://japi.juhe.cn/joke/content/text.from'
 * **调用方式**：使用APPCODE 'c39621ea5b825547001f9858a643f182',pagesize:10
 * **结果**：免费获取最新的文本笑话和趣图（图片和gif图）
+----------
