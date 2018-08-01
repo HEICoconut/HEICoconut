@@ -10,8 +10,7 @@
 ## 导入一个小程序样例
 * 解压ZIP文件
 * 打开微信开发者工具（[下载地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)）
-* 导入项目
-* ![导入项目]()
+* 文件-新建-选择解压的文件夹，导入项目
 * 试运行
 
 
